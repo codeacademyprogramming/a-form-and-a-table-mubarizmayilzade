@@ -1,0 +1,87 @@
+body {
+    border: 1px;
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+
+}
+
+#container { border: 1px;
+    align-content: center;
+    justify-content: center;
+    margin-left: 500px;
+    margin-right: 550px;
+}
+
+#prewievColor {
+    
+    margin-left: 110px;
+    margin-right: 125px;
+
+}
+
+#signIn{
+    
+    margin-left: 15px;
+
+}
+
+#inputName {
+
+    margin-left: 15px;
+
+}
+.blue {
+
+    color: blue;
+
+}
+#text {
+
+    margin-left: 15px;
+
+}
+
+.input {
+    margin-left: 15px;
+    margin-bottom: 15px;
+    
+}
+
+input:hover
+{
+    border-color: green;
+
+}
+
+
+#checkbox {
+    
+    margin-left: 15px;
+
+}
+
+#button {
+    
+    margin-top: 20px;
+    margin-left: 13px;
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    padding-left: 127px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 127px;
+    background-color: rgba(69,155,118,255);
+    color: white;
+}
+
+#checkbox {
+    
+margin-left: 8px;
+    margin-right: 15px;
+
+
+}

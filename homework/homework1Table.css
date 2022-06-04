@@ -1,0 +1,15 @@
+#th {
+    background-color: rgba(114,169,66,255);
+    color: white;
+}
+.tddark {
+    background-color: rgba(199,222,179,255);
+    color: black;
+}
+.tdlight {
+    background-color: rgba(226,238,217,255);
+    color: black;
+}
+.text {
+    text-align: right;
+}
